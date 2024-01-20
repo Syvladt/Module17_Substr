@@ -27,7 +27,6 @@ static bool sub_str(const char* p1, const char* p2)
 
 int main()
 {
-	setlocale(LC_ALL, "RU_ru");
 	const char* a = "Hello world";
 	const char* b = "wor";
 	const char* c = "banana";
